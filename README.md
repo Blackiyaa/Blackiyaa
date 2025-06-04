@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/isira wickramaarachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="isira wickramaarachchi" height="30" width="40" /></a>
-<a href="https://instagram.com/_.i_s_s_a._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.i_s_s_a._" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/16TBQUw4w6/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="isira wickramaarachchi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_.i_s_s_a._?igsh=YjhnODk5dW04OWZy&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.i_s_s_a._" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
